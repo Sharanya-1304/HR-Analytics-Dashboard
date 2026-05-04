@@ -70,3 +70,6 @@ KPI cards for quick insights
 Interactive charts (donut, line, pie, tree map)
 Filter panel for dynamic exploration
 Users can interact with visuals to explore different employee segments
+
+
+
